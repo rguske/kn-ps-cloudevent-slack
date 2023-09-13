@@ -94,6 +94,8 @@ See docker container console for output
 06/27/2022 09:47:31 - Successfully sent Webhook ...
 ```
 
+![Alt text](image.png)
+
 # Step 3 - Deploy
 
 > **Note:** The following steps assume a working Knative environment using the RabbitMQ or the `MTChannelBasedBroker` broker. The Knative `service` and `trigger` will be installed in the
