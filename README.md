@@ -2,7 +2,7 @@
 
 Example Knative PowerShell function for sending a custom CloudEvent to a Slack webhook. This function relies on the Knative [kn-py-cloudevent-transformation-function](https://github.com/rguske/kn-py-cloudevent-transformation-function) which is a requirement for this example.
 
-![Alt text](image-1.png)
+![Alt text](image.png)
 
 # Step 1 - Build
 
@@ -95,8 +95,6 @@ See docker container console for output
 06/27/2022 09:47:31 - Sending Webhook payload to Slack ...
 06/27/2022 09:47:31 - Successfully sent Webhook ...
 ```
-
-![Alt text](image.png)
 
 # Step 3 - Deploy
 
